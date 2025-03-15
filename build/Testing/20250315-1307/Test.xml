@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20250315-1307-Experimental"
+	Name="axel-pc"
+	Generator="ctest-3.31.6"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="14.2.1"
+	OSName="Linux"
+	Hostname="axel-pc"
+	OSRelease="6.13.7-arch1-1"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Thu, 13 Mar 2025 18:12:00 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ModelName="Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="4095"
+	TotalPhysicalMemory="15808"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4199.8"
+	>
+	<Testing>
+		<StartDateTime>Mar 15 14:12 CET</StartDateTime>
+		<StartTestTime>1742044348</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 15 14:12 CET</EndDateTime>
+		<EndTestTime>1742044348</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

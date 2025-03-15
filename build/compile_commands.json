@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ficova/projects/ants/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/ants.dir/main.cpp.o -c /home/ficova/projects/ants/main.cpp",
+  "file": "/home/ficova/projects/ants/main.cpp",
+  "output": "CMakeFiles/ants.dir/main.cpp.o"
+}
+]
